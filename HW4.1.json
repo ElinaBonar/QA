@@ -1,0 +1,35 @@
+{
+	"users": [
+		{
+			"name": "Apocalyptica",
+			"Genres": "Symphonic metal",
+			"country": "Finland",
+			"lead": "Eicca Toppinen"
+		},
+		{
+
+			"name": "Nightwish ",
+			"Genres": "Symphonic metal",
+			"country": "Finland",
+			"lead": "Tarja Turunen"
+		},
+		{
+			"name": "System of a Down",
+			"Genres": "Alternative metal",
+			"country": "USA",
+			"lead": "Serj Tankian"
+		},
+		{
+			"name": "Rammstein ",
+			"Genres": "industrial metal",
+			"country": "Germany",
+			"lead": "Till Lindemannn"
+		},
+		{
+			"country": "USA",
+			"Genres": "Progressive metal",
+			"lead": "John Myung",
+			"name": "Dream Theater"
+		}
+	]
+}
